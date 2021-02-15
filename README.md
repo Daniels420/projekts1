@@ -1,4 +1,4 @@
-# Mans lielais virsraksts
+# Pirmā reize GitHubā
 *Petrulya420*
 * Dators
 * Telefons
